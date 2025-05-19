@@ -1,4 +1,4 @@
-### Hi there, I'm @fyv3n 👋
+### Hi there, I'm Aron! 👋
 
 I'm **Aron Alec Ramos**, a 4th-year Computer Science student at Gordon College with a passion for innovative technology and creative problem-solving. 
 Current exploring in AI implementations in different various fields. I am now working on a project called cookai throughout my internship at ordermo as system admin.
