@@ -10,13 +10,13 @@ Current exploring in AI implementations in different various fields. I am now wo
   - **CookAI** – an AI-powered recipe generator using GPT-4, DALL·E 3, and Vision API to generate and visualize meals from ingredients (Next.js, React, Firebase, OpenAI)
   - The frontend for **Bataan Heroes College** (WIP) (Angular)
   - TechStackAdvisor API - TechStackAdvisor DecisionAgent API an AI-powered tool that recommends the best tech stack for your project based on inputs like app type, team size,                                 and features. It simplifies decision-making by explaining each recommendation in plain language.
-  - 🤖 I'm deeply interested in **Artificial Intelligence, Machine Learning**, and **Computer Vision**.
-  - 📜 I’ve earned certifications in AI and NLP from DICT Zamboanga and Asia Open RAN Academy.
-  - 🧠 Skilled in **React, Next.js, Node.js, Express**, and **Firebase**.
-  - 🎮 Outside of tech, I enjoy **video games** and **cooking**, especially **soups and stir fry dishes**.
-  - 📫 Reach me at: aronalecdgr@gmail.com | 202110243@gordoncollege.edu.ph
-  - 🔖 Links: 
-        - https://cook-ai-five.vercel.app/
+- 🤖 I'm deeply interested in **Artificial Intelligence, Machine Learning**, and **Computer Vision**.
+- 📜 I’ve earned certifications in AI and NLP from DICT Zamboanga and Asia Open RAN Academy.
+- 🧠 Skilled in **React, Next.js, Node.js, Express**, and **Firebase**.
+- 🎮 Outside of tech, I enjoy **video games** and **cooking**, especially **soups and stir fry dishes**.
+- 📫 Reach me at: aronalecdgr@gmail.com | 202110243@gordoncollege.edu.ph
+- 🔖 Links: 
+  - https://cook-ai-five.vercel.app/
 
 ### 🧰 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
