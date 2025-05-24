@@ -19,6 +19,7 @@ Current exploring in AI implementations in different various fields. I am now wo
 - 📫 Reach me at: aronalecdgr@gmail.com | 202110243@gordoncollege.edu.ph
 - 🔖 Links: 
   - https://cook-ai-five.vercel.app/
+  - https://civicpulse-coral.vercel.app/
 
 ### 🧰 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
