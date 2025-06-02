@@ -1,7 +1,7 @@
 ### Hi there, I'm Aron! 👋
 
 I'm **Aron Alec Ramos**, a 4th-year Computer Science student at Gordon College with a passion for innovative technology and creative problem-solving. 
-Current exploring in AI implementations in different various fields. I am now working on a project called cookai throughout my internship at ordermo as system admin.
+Current exploring in AI implementations in different various fields. I am now working on a project called cookai that uses OpenAI throughout my internship at ordermo as system admin and my Thesis on Gordon College called CivicPulse and I am planning to implement Llama Guard 4
 
 - 💻 I specialize in **Frontend Development** using **React** and **Next.js**, and I have experience in **Backend Development** with **Node.js** and **Express**.
 - 🛠️ I've worked on several side projects, including:
