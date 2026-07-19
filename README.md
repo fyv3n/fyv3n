@@ -1,32 +1,38 @@
-### Hi there, I'm Aron! 👋
+### Hi there, I'm Aron
 
-I'm **Aron Alec Ramos**, a 4th-year Computer Science student at Gordon College with a passion for innovative technology and creative problem-solving. 
-Current exploring in AI implementations in different various fields. I am now working on a project called cookai that uses OpenAI, the project will be developed throughout my internship at Ordermo and my Thesis on Gordon College called CivicPulse and is using Deepseek API.
+I am a recent Computer Science graduate from Gordon College actively looking for entry-level frontend or full-stack software engineering roles. I specialize in React, Next.js, and Node.js, with a strong interest in integrating artificial intelligence into applications. Outside of tech, I am usually gaming or cooking stir-fry dishes.
 
-- 💻 I specialize in **Frontend Development** using **React** and **Next.js**, and I have experience in **Backend Development** with **Node.js** and **Express**.
-- 🛠️ I've worked on several side projects, including:
-  - **Progle** – a Wordle-inspired game that introduces common programming terms to beginners (C# & Unity)
-  - A **personal portfolio** featuring an interactive chatbot (Running on Ollama: Llama 2) (WIP)
-  - **CookAI** – an AI-powered recipe generator using GPT-4, DALL·E 3, and Vision API to generate and visualize meals from ingredients (Next.js, React, Firebase, OpenAI)
-  - The frontend for **Bataan Heroes College** Student and Admin Dashboard (Angular)
-  - TechStackAdvisor API - TechStackAdvisor DecisionAgent API an AI-powered tool that recommends the best tech stack for your project based on inputs like app type, team size,
-    and features. It simplifies decision-making by explaining each recommendation in plain language.
-  - CivicPulse - Empowering Barangays with Smarter Emergency Detection. A community-driven platform that uses AI to detect emergencies, connect neighbors, and coordinate rapid responses when every minute counts.
-- 🤖 I'm deeply interested in **Artificial Intelligence, Machine Learning**, and **Computer Vision**.
-- 📜 I’ve earned certifications in AI and NLP from DICT Zamboanga and Asia Open RAN Academy.
-- 🧠 Skilled in **React, Next.js, Node.js, Express**, and **Firebase**.
-- 🎮 Outside of tech, I enjoy **video games** and **cooking**, especially **soups and stir fry dishes**.
-- 📫 Reach me at: aronalecdgr@gmail.com | 202110243@gordoncollege.edu.ph
-- 🔖 Links: 
-  - https://cook-ai-five.vercel.app/
-  - https://civicpulse-coral.vercel.app/
+### Projects:
+### CivicPulse
+A community-driven platform built to empower barangays with smarter emergency detection. It uses the Deepseek API to detect emergencies, connect neighbors, and coordinate rapid responses. This was developed for my thesis at Gordon College.
 
-### 🧰 Tech Stack
+### CookAI
+An artificial intelligence powered recipe generator that uses GPT-4, DALL-E 3, and the Vision API to generate and visualize meals from ingredients. I worked on this during my internship at Ordermo using Next.js, React, Firebase, and OpenAI. Please note that this live demo is temporarily offline.
+
+### Bataan Heroes College Dashboard
+Developed the frontend for the student and admin dashboard using Angular.
+
+### Tech Stack
+
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-
-Thanks for dropping by! Feel free to explore my repositories and connect with me. 🚀
+### Connect With Me
+Email: aronalecdgr@gmail.com 
+Portfolio: https://alecdev.vercel.app/
+CivicPulse: https://civicpulse-coral.vercel.app/
